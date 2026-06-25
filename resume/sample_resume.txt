@@ -1,0 +1,71 @@
+Sri Hasitha Gudipati
+
+Email: hasi@example.com
+Phone: 9878965445
+LinkedIn: https://linkedin.com/in/hasi
+GitHub: https://github.com/hasi
+
+Professional Summary
+
+Computer Science student with a strong interest in Artificial
+Intelligence, Machine Learning, Large Language Models (LLMs), and
+Software Development. Experienced with Python, SQL, Git, and GitHub.
+Currently building AI-powered projects including Resume Analyzer, PDF
+Chatbot, Research Assistant, and an AI Interview Coach.
+
+Education
+
+SRM Institute of Science and Technology, Andhra Pradesh
+Bachelor of Technology (Computer Science)
+
+Technical Skills
+
+-   Python
+-   SQL
+-   Git & GitHub
+-   Object-Oriented Programming
+-   Pandas
+-   Large Language Models (LLMs)
+-   Prompt Engineering
+-   LangChain (Learning)
+-   OpenAI API (Learning)
+
+Projects
+
+AI Interview Coach
+
+-   Resume analysis using LLMs.
+-   Generates interview questions based on job role and resume.
+-   Interactive question-and-answer workflow.
+
+Resume Analyzer
+
+-   Parses resumes and provides AI-powered feedback.
+-   Highlights strengths and improvement areas.
+
+Dataset Explorer CLI
+
+-   Built a command-line dataset exploration tool using Python and
+    Pandas.
+-   Displays dataset statistics and previews.
+
+Certifications / Learning
+
+-   CS50P (Harvard) – Python
+-   SQLBolt
+-   OpenAI API
+-   Git & GitHub
+-   Prompt Engineering
+
+Interests
+
+-   Artificial Intelligence
+-   Machine Learning
+-   Natural Language Processing
+-   Software Engineering
+
+Strengths
+
+-   Time management
+-   Faster Adaptability
+-   Team cooperation
