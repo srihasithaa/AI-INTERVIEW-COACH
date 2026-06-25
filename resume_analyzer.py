@@ -9,7 +9,7 @@ def read_resume(file):
     return details
 
 
-def get_prompt(prompt_file):
+def get_resume_prompt(prompt_file):
     with open(prompt_file, "r") as prompt:
         prompt_text = prompt.read()
 
@@ -18,7 +18,7 @@ def get_prompt(prompt_file):
 
 def analyze_resume(resume, prompt):
     resume_text = read_resume(resume)
-    prompt_template = get_prompt(prompt)
+    prompt_template = get_resume_prompt(prompt)
 
     model_prompt = (f"Instructions:{prompt_template}\n"
                     f"Resume:{resume_text}")

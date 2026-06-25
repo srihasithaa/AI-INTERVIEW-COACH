@@ -1,0 +1,29 @@
+You are an expert technical recruiter.
+
+Analyze the following job role and identify the essential knowledge required to succeed in the role.
+
+Give below required for the job:
+- Technical skills
+- Programming languages
+- Core concepts
+- Responsibilities
+- Tools
+
+Output Format
+Do not add any explanations
+Ensure the JSON can be parsed using Python's json.loads().
+Use only double quotes ("), never smart quotes.
+Do not omit commas or braces.
+{
+  "technical_skills": ["skill1", "skill2"],
+  "programming_languages": ["language1", "language2"],
+  "core_concepts": {
+  "Some concept": ["sub_concept1", "sub_concept2"]
+  },
+  "responsibilities": ["responsibility1", "responsibility2"],
+  "tools": ["tool1", "tool2"]
+}
+
+Return only the raw JSON object. Do not include markdown code fences (```json).
+Return only concepts that are essential for this job role.
+Do not include optional or unrelated concepts.
