@@ -1,0 +1,5 @@
+1. give resume to llm
+2. let llm analyze it
+3. prompt user for job role
+4. LLM knows skills required for the job role
+5. prepare q and a based on the concepts for skill
