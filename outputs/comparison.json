@@ -1,0 +1,35 @@
+{
+    "technical_skills": {
+        "already_covered": [],
+        "missing": [
+            "Data Modeling",
+            "Model Training",
+            "Model Evaluation",
+            "Feature Engineering",
+            "Hyperparameter Tuning",
+            "Data Visualization",
+            "Experiment Design"
+        ]
+    },
+    "programming_languages": {
+        "already_covered": [
+            "Python"
+        ],
+        "missing": [
+            "Java",
+            "C++"
+        ]
+    },
+    "tools": {
+        "already_covered": [],
+        "missing": [
+            "TensorFlow",
+            "PyTorch",
+            "Scikit-learn",
+            "Jupyter Notebooks",
+            "Git",
+            "Docker",
+            "Kubernetes"
+        ]
+    }
+}

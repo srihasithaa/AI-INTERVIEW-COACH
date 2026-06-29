@@ -1,0 +1,29 @@
+{
+    "questions": [
+        {
+            "question_number": 1,
+            "question": "Describe different methods for hyperparameter tuning and compare their strengths and weaknesses.",
+            "expected_topic": "Hyperparameter Tuning Methods"
+        },
+        {
+            "question_number": 2,
+            "question": "Explain the concept of grid search and random search in hyperparameter optimization. When would you choose one over the other?",
+            "expected_topic": "Search Algorithms"
+        },
+        {
+            "question_number": 3,
+            "question": "You are building a model with a large number of hyperparameters. What strategies could you employ to reduce the computational cost of hyperparameter tuning while still achieving good performance?",
+            "expected_topic": "Optimization Strategies"
+        },
+        {
+            "question_number": 4,
+            "question": "How do concepts like cross-validation and early stopping relate to hyperparameter tuning? Explain how they contribute to building robust models.",
+            "expected_topic": "Cross-Validation & Early Stopping"
+        },
+        {
+            "question_number": 5,
+            "question": "Consider a scenario where you've tuned hyperparameters on a development dataset and observed significantly different performance when deploying the model to production. What potential reasons could explain this discrepancy, and what steps would you take to investigate?",
+            "expected_topic": "Model Deployment & Data Drift"
+        }
+    ]
+}

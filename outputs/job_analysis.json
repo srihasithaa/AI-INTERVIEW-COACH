@@ -1,0 +1,53 @@
+{
+    "technical_skills": [
+        "Data Modeling",
+        "Model Training",
+        "Model Evaluation",
+        "Feature Engineering",
+        "Hyperparameter Tuning",
+        "Data Visualization",
+        "Experiment Design"
+    ],
+    "programming_languages": [
+        "Python",
+        "Java",
+        "C++"
+    ],
+    "core_concepts": {
+        "Machine Learning": [
+            "Supervised Learning",
+            "Unsupervised Learning",
+            "Reinforcement Learning",
+            "Model Bias and Variance",
+            "Overfitting and Underfitting"
+        ],
+        "Deep Learning": [
+            "Neural Networks",
+            "Convolutional Neural Networks (CNNs)",
+            "Recurrent Neural Networks (RNNs)",
+            "Transformers"
+        ],
+        "Large Language Models": [
+            "Prompt Engineering",
+            "Fine-tuning",
+            "Inference Optimization",
+            "Evaluation Metrics for LLMs"
+        ]
+    },
+    "responsibilities": [
+        "Develop and implement machine learning models.",
+        "Train, evaluate, and deploy AI/ML solutions.",
+        "Design data pipelines for model training.",
+        "Monitor model performance and identify areas for improvement",
+        "Collaborate with cross-functional teams."
+    ],
+    "tools": [
+        "TensorFlow",
+        "PyTorch",
+        "Scikit-learn",
+        "Jupyter Notebooks",
+        "Git",
+        "Docker",
+        "Kubernetes"
+    ]
+}

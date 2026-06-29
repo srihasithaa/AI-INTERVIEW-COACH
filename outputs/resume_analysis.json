@@ -1,0 +1,33 @@
+{
+    "technical_skills": [
+        "Python",
+        "SQL",
+        "Git & GitHub",
+        "Object-Oriented Programming",
+        "Pandas",
+        "Large Language Models (LLMs)",
+        "Prompt Engineering",
+        "LangChain",
+        "OpenAI API"
+    ],
+    "programming_languages": [
+        "Python",
+        "SQL"
+    ],
+    "projects": {
+        "AI Interview Coach": "Resume analysis using LLMs. Generates interview questions based on job role and resume. Interactive question-and-answer workflow.",
+        "Resume Analyzer": "Parses resumes and provides AI-powered feedback. Highlights strengths and improvement areas.",
+        "Dataset Explorer CLI": "Built a command-line dataset exploration tool using Python and Pandas. Displays dataset statistics and previews."
+    },
+    "strengths": [
+        "Time management",
+        "Faster Adaptability",
+        "Team cooperation"
+    ],
+    "tools": [
+        "OpenAI API",
+        "LangChain",
+        "Pandas",
+        "GitHub"
+    ]
+}
