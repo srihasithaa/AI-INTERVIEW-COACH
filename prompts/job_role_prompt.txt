@@ -9,11 +9,16 @@ Give below required for the job:
 - Responsibilities
 - Tools
 
-Output Format
+Output Guidelines:
 Do not add any explanations
 Ensure the JSON can be parsed using Python's json.loads().
 Use only double quotes ("), never smart quotes.
 Do not omit commas or braces.
+Return only the raw JSON object. Do not include markdown code fences (```json).
+Return only concepts that are essential for this job role.
+Do not include optional or unrelated concepts.
+
+Output Format:
 {
   "technical_skills": ["skill1", "skill2"],
   "programming_languages": ["language1", "language2"],
@@ -24,6 +29,3 @@ Do not omit commas or braces.
   "tools": ["tool1", "tool2"]
 }
 
-Return only the raw JSON object. Do not include markdown code fences (```json).
-Return only concepts that are essential for this job role.
-Do not include optional or unrelated concepts.
